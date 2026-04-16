@@ -52,6 +52,10 @@ StrokeLab stores all data locally on your device. To delete your data:
 
 StrokeLab does **not** integrate third-party advertising, analytics, or tracking services.
 
+### Email feedback
+
+If you choose to contact us via email (for example, by tapping “Send feedback” in the app), the message is sent by **your email app and email provider**. StrokeLab does not run its own server to receive or process your data automatically; however, the content you choose to send (and any information your email provider attaches) will be handled according to your email provider’s policies.
+
 ## Permissions
 
 StrokeLab does not request or use the following sensitive permissions for core functionality:
@@ -61,7 +65,7 @@ StrokeLab does not request or use the following sensitive permissions for core f
 - **No microphone access** — we do not use the microphone.
 - **No contacts or calendar access** — we do not access your contacts or calendar.
 
-StrokeLab requires **storage access only when explicitly exporting or sharing data** (if such features are added in a future version). Core usage is fully offline.
+StrokeLab does **not** require storage permissions for core usage. If we add optional export/sharing features in a future version, we will update this privacy policy and the app accordingly.
 
 ## Children's privacy
 
@@ -84,4 +88,4 @@ If we change how StrokeLab handles data, we will update this policy and revise t
 
 If you have questions about this privacy policy or StrokeLab's data practices, please contact:
 
-- **Product enquiries:** [gjianjun666@gmail.com](mailto:gjianjun666@gmail.com)
+- **Privacy enquiries:** [gjianjun666@gmail.com](mailto:gjianjun666@gmail.com)
